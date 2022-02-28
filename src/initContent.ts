@@ -7,7 +7,7 @@ export default `# 个人简历
 毕业院校 南理工紫金学院
 专业 电子信息工程
 英语水平 四级
-个人博客 [http://101.35.251.32/blog/](http://101.35.251.32/blog/)
+个人主页 [https://www.liuhao.website/](https://www.liuhao.website/)
 github [https://github.com/caishuxueqianliu](https://github.com/caishuxueqianliu)
 gitee [https://gitee.com/caishuxueqianliu](https://gitee.com/caishuxueqianliu)***
 
@@ -18,7 +18,7 @@ gitee [https://gitee.com/caishuxueqianliu](https://gitee.com/caishuxueqianliu)**
 > * **掌握常用的中后台解决方案如vue-element-admin，d2admin，antd-design-pro进行二次开发**
 > * **熟练使用nodejs+express+typescript+mysql/mongodb+sequelize/mongose开发后台项目**
 > * **熟悉python，linux，nginx，shell的相关知识，搭建部署网站以及node服务，
->      利用uniapp打包android/ios包**
+>      利用uniapp打包android/ios包，了解组件库的开发及部署到npm**
 > * **使用过nuxt.js/next.js服务端渲染框架，开发部署h5页面**
 > * **熟悉一些工具的使用如git，svn，navicat，charles，postman等**
 
@@ -54,16 +54,30 @@ gitee [https://gitee.com/caishuxueqianliu](https://gitee.com/caishuxueqianliu)**
 
 ### d2admin后台管理
 > **项目说明:
-使用vue，d2amin/2-crud-plus维护开发内部后台管理，功能与上个项目基本一样**
+使用vue，d2amin/2-crud-plus维护开发内部后台管理，功能与上个项目基本一样（旧版）**
 ### 小格厨房（原生小程序）
 >**项目说明:
  洗碗机报修，耗材领用，购买租赁，实名认证，合同签订，和维修师傅聊天，设备绑定等功能**
+ ### 小格报修（原生小程序）
+>**项目说明:
+ 给销售临时使用，洗碗机报修，耗材领用，和维修师傅聊天**
+  ### 小格客服聊天系统
+>**项目说明:
+ 利用im-web的demo二次开发，客服聊天系统**
 ### vue3书城项目
 > **项目说明:
-分为vue3+ts移动端,express服务端,react+ts中后台
+分为vue3+ts+pinia移动端,express服务端,react+ts中后台~~~~
 client包括登陆注册功能，搜索小说，小说目录，阅读内容，背景字体更换，书架，分类等功能
 server包括利用cheerio爬取小说网站的内容，存入mysql，提供给前台接口
 admin利用ant-design-pro搭建，用于管理小说以及用户**
+### qq机器人研究
+> **项目说明:
+利用node+express+iocq+mysql+爬虫等，
+实现自动化打包，爬虫查询等功能**
+### vue-ui库研究
+> **项目说明:
+使用vue3+vite尝试研究开发ui库并发布npm
+npm i @ice-game/vue-ui**
 ### vue超级签管理中后台
 > **项目说明:
 对苹果个人签账号的管理和ios包体的管理，调用苹果的接口生成证书和签名，
@@ -75,4 +89,5 @@ admin利用ant-design-pro搭建，用于管理小说以及用户**
 以及审核日志等功能的中后台***
 
 ## 个人评价
-> ***热爱学习,积极进取***`
+> ***热爱生活,认真学习,积极进取,不断进步***
+    `
