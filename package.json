@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@toast-ui/react-editor": "^3.1.2",
+    "axios": "^0.26.0",
     "codemirror": "^5.65.1",
     "js-file-download": "^0.4.12",
     "notie": "^4.3.1",

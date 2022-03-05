@@ -8,8 +8,7 @@ export default `# 个人简历
 专业 电子信息工程
 英语水平 四级
 个人主页 [https://www.liuhao.website/](https://www.liuhao.website/)
-github [https://github.com/caishuxueqianliu](https://github.com/caishuxueqianliu)
-gitee [https://gitee.com/caishuxueqianliu](https://gitee.com/caishuxueqianliu)***
+github [https://github.com/caishuxueqianliu](https://github.com/caishuxueqianliu)***
 
 ## 技能掌握
 
